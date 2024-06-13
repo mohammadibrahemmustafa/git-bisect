@@ -50,6 +50,8 @@
                 <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a good commit </p>
+                <p class="text-center"> This is a good commit </p>
+                <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a bad commit </p>
                 <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a good commit </p>
