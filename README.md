@@ -12,11 +12,11 @@ It contains:
 # How to use:
 1. Clone the project (you need to have ssh key)
 ```
-git clone git@github.com:mohammadibrahemmustafa/docker-php-laravel-template.git
+git clone git@github.com:mohammadibrahemmustafa/git-bisect.git
 ```
 2. Go to the project
 ```
-cd docker-php-template
+cd git-bisect
 ```
 3. Copy .env file
 ```
@@ -33,7 +33,11 @@ docker-compose up --build
 ```
 6. Go to the php container 
 ```
-docker exec -it {container_name} bash
+docker exec -it {container_name} bash 
+```
+Or
+```
+docker compose exec php bash
 ```
 
 7. Run the commands to install the packages and create the database tables
