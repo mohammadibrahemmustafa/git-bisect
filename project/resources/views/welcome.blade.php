@@ -49,6 +49,7 @@
             <div class="text-lg dark:text-gray-400 sm:text-left mt-10">
                 <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a good commit </p>
+                <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a bad commit </p>
                 <p class="text-center"> This is a good commit </p>
                 <p class="text-center"> This is a good commit </p>
